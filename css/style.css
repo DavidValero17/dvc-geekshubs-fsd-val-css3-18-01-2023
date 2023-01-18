@@ -1,19 +1,31 @@
 body {
     background-color: aqua;
+    
 }
 
-div {
-    height: 100px;
-}
 
 #div1 {
-    background-color:red
+    background-color:red;
+    height: 15vh;
+    
 }
 
 #div2 {
     background-color: yellow;
+    height: 85vh;
+    width: 10vw;
+    float: left;
 }
 
 #div3 {
-    background-color: red
+    background-color: blue;
+    height: 85vh;
+    width: 90vw;
+    float: left;
 }
+
+.div2-menu {
+    background-color: yellow;
+    height: 5vh;
+}
+
